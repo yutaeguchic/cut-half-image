@@ -1,0 +1,6 @@
+dir:
+  src: "./src/"
+  dist: "./dist/"
+padding:
+  left: 0
+  right: 0
